@@ -11,4 +11,6 @@ spacy==3.5.0
 httpx==0.24.1             
 pydantic==1.10.4          
 python-multipart==0.0.5   
-joblib==1.2.0             
+joblib==1.2.0   
+streamlit
+
